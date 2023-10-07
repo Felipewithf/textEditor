@@ -8,6 +8,10 @@
   --navbar-height: 50px;
 }
 
+.hidden{
+  visibility: hidden;
+}
+
 body {
   margin: 0;
   background-color: var(--monoaki);
